@@ -1,0 +1,182 @@
+[
+    {
+        "index": 0,
+        "center_angle": 135,
+        "min_angle": 0.0,
+        "max_angle": 180,
+        "axis": "yaw",
+        "location": "head" 
+    },
+    {
+        "index": 1,
+        "center_angle": 45,
+        "min_angle": 0.0,
+        "max_angle": 180,
+        "axis": "pitch",
+        "location": "head" 
+    },
+    {
+        "index": 2,
+        "center_angle": 0,
+        "min_angle": 0.0,
+        "max_angle": 180,
+        "axis": "yaw",
+        "location": "head" 
+    },
+    {
+        "index": 3,
+        "center_angle": 120,
+        "min_angle": 0.0,
+        "max_angle": 180,
+        "axis": "pitch",
+        "location": "head" 
+    },
+    {
+        "index": 4,
+        "center_angle": 65,
+        "min_angle": 0.0,
+        "max_angle": 180,
+        "axis": "yaw",
+        "location": "body" 
+    },
+    {
+        "index": 5,
+        "center_angle": 0,
+        "min_angle": 0.0,
+        "max_angle": 180,
+        "axis": "pitch",
+        "location": "body",
+        "flat_point": 40
+    },
+    {
+        "index": 6,
+        "center_angle": 90,
+        "min_angle": 0.0,
+        "max_angle": 180,
+        "axis": "yaw",
+        "location": "body" 
+    },
+    {
+        "index": 7,
+        "center_angle": 0,
+        "min_angle": 0.0,
+        "max_angle": 180,
+        "axis": "pitch",
+        "location": "body",
+        "flat_point": 80
+    },
+    {
+        "index": 8,
+        "center_angle": 115,
+        "min_angle": 0.0,
+        "max_angle": 180,
+        "axis": "yaw",
+        "location": "body" 
+    },
+    {
+        "index": 9,
+        "center_angle": 120,
+        "min_angle": 0.0,
+        "max_angle": 180,
+        "axis": "pitch",
+        "location": "body",
+        "flat_point": 120
+    },
+    {
+        "index": 10,
+        "center_angle": 45,
+        "min_angle": 0.0,
+        "max_angle": 180,
+        "axis": "yaw",
+        "location": "body" 
+    },
+    {
+        "index": 11,
+        "center_angle": 120,
+        "min_angle": 0.0,
+        "max_angle": 180,
+        "axis": "pitch",
+        "location": "body" 
+    },
+    {
+        "index": 12,
+        "center_angle": 90,
+        "min_angle": 0.0,
+        "max_angle": 180,
+        "axis": "yaw",
+        "location": "body" 
+    },
+    {
+        "index": 13,
+        "center_angle": 150,
+        "min_angle": 0.0,
+        "max_angle": 180,
+        "axis": "pitch",
+        "location": "body" 
+    },
+    {
+        "index": 14,
+        "center_angle": 45,
+        "min_angle": 0.0,
+        "max_angle": 180,
+        "axis": "yaw",
+        "location": "body" 
+    },
+    {
+        "index": 15,
+        "center_angle": 90,
+        "min_angle": 0.0,
+        "max_angle": 180,
+        "axis": "pitch",
+        "location": "body" 
+    },
+    {
+        "index": 16,
+        "center_angle": 145,
+        "min_angle": 0.0,
+        "max_angle": 180,
+        "axis": "yaw",
+        "location": "body" 
+    },
+    {
+        "index": 17,
+        "center_angle": 145,
+        "min_angle": 0.0,
+        "max_angle": 180,
+        "axis": "yaw",
+        "location": "body" 
+    },
+    {
+        "index": 18,
+        "center_angle": 145,
+        "min_angle": 0.0,
+        "max_angle": 180,
+        "axis": "yaw",
+        "location": "body" 
+    },
+    {
+        "index": 19,
+        "center_angle": 145,
+        "min_angle": 0.0,
+        "max_angle": 180,
+        "axis": "yaw",
+        "location": "body" 
+    },
+    {
+        "index": 20,
+        "center_angle": 145,
+        "min_angle": 0.0,
+        "max_angle": 180,
+        "axis": "yaw",
+        "location": "body" 
+    },
+    {
+        "index": 21,
+        "center_angle": 145,
+        "min_angle": 0.0,
+        "max_angle": 180,
+        "axis": "yaw",
+        "location": "body" 
+    }
+]
+    
